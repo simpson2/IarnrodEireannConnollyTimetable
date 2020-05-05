@@ -1,0 +1,29 @@
+caption {
+    font-size: 1.7rem;
+    font-family: monospace;
+    text-align: center;
+}
+
+table {
+    font-size: 1.65rem;
+    font-family: monospace;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th,
+td {
+    padding: 0.15rem;
+}
+
+tr,
+td,
+th {
+    border: 1px solid #1bb394;
+    text-align: center;
+}
+
+th {
+    background-color: #2f4050;
+    color: white;
+}
